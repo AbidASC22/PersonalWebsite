@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+body {
+  color: aliceblue;
+}
+
+h1 {
+  color:black;
+}
+
+h1 {
+text-align: center;
+
+  background-color: brown;
+  font-family: Helvetica;
+
+
+}
+
+.Contact {
+  display: flex;
+  justify-content: space-around;
+}
+
+div {
+  text-align: center;
+}
